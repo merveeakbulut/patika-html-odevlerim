@@ -40,6 +40,8 @@ Bu, sevdiğim bir köpek resmi.
 
 ## Ana Sayfa
 
+![Ana Sayfa Resmi](image_ee699b.png)
+
 HTML öğrenme yolculuğuma hoş geldiniz! Bu site, Patika.dev HTML kursundaki bölüm sonu çalışmamdır.
 
 Bu sayfada kişisel projelerimi ve öğrendiklerimi paylaşıyorum.
