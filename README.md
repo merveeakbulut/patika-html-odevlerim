@@ -34,35 +34,40 @@ Bu, sevdiğim bir köpek resmi.
 
 # Kodlama Günlüğüm
 
-**[Ana Sayfa](index.html) | [Hakkımızda](hakkimizda.html) | [İletişim](iletisim.html)**
+* **[Ana Sayfa](index.html)**
+* **[Hakkımızda](hakkimizda.html)**
+* **[İletişim](iletisim.html)**
 
 ---
 
-## Ana Sayfa
+## Hakkımızda
 
-![Ana Sayfa Resmi]<img src="laptop.png" alt="Mutlu Çizgi Film Laptop" width="400">
+### Biz Kimiz?
 
-HTML öğrenme yolculuğuma hoş geldiniz! Bu site, Patika.dev HTML kursundaki bölüm sonu çalışmamdır.
+![Rastgele bir ofis görseli](https://picsum.photos/id/48/600/300)
 
-Bu sayfada kişisel projelerimi ve öğrendiklerimi paylaşıyorum.
+Biz, Patika.dev üzerinde HTML ve CSS öğrenen meraklı yazılımcı adaylarıyız.
 
-### Bu Sitede Neler Var?
+Bu web sitesi, HTML Bölüm Sonu Çalışması kapsamında oluşturulmuştur.
 
-Bu site 3 sayfadan oluşmaktadır:
+### Vizyonumuz
 
-1.  **Ana Sayfa:** Şu an bulunduğunuz sayfa. Genel bir karşılama içerir.
-2.  **Hakkımızda Sayfası:** Bu projenin amacı ve vizyonum hakkında bilgiler.
-3.  **İletişim Sayfası:** Bana ulaşabileceğiniz adres ve iletişim bilgileri.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, sint quos. Repellat, reprehenderit. Laboriosam, et.
 
-### İlgi Alanlarım (Ödev 2'den)
+* Yenilikçi çözümler üretmek.
+* Sürekli öğrenmeye devam etmek.
+* Açık kaynak projelere katkı sağlamak.
 
-Boş zamanlarımda yapmayı sevdiğim şeylerden bazıları:
+### Misyonumuz
 
-* **Film:** Dövüş Kulübü
-* **Dizi:** Breaking Bad
-* **Kitap:** 1984 - George Orwell
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, sunt. Similique, nobis.
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, repellendus?
 
 ---
-**[Ana Sayfa](index.html) | [Hakkımızda](hakkimizda.html) | [İletişim](iletisim.html)**
+
+* **[Ana Sayfa](index.html)**
+* **[Hakkımızda](hakkimizda.html)**
+* **[İletişim](iletisim.html)**
 
 *© 2025 Tüm Hakları Saklıdır. Bu bir Patika.dev ödevidir.*
