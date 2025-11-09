@@ -32,11 +32,35 @@ Bu, sevdiğim bir köpek resmi.
 
 ---
 
-## Proje Sayfaları
+# Kodlama Günlüğüm
 
-Bu depoda oluşturulan HTML sayfalarının linkleri:
+**[Ana Sayfa](index.html) | [Hakkımızda](hakkimizda.html) | [İletişim](iletisim.html)**
 
-* **[Ana Sayfa (index.html)](index.html)**
-* **[Hakkımızda Sayfası (hakkimizda.html)](hakkimizda.html)**
+---
 
-*(İletişim sayfası eklendiğinde buraya eklenecektir.)*
+## Ana Sayfa
+
+HTML öğrenme yolculuğuma hoş geldiniz! Bu site, Patika.dev HTML kursundaki bölüm sonu çalışmamdır.
+
+Bu sayfada kişisel projelerimi ve öğrendiklerimi paylaşıyorum.
+
+### Bu Sitede Neler Var?
+
+Bu site 3 sayfadan oluşmaktadır:
+
+1.  **Ana Sayfa:** Şu an bulunduğunuz sayfa. Genel bir karşılama içerir.
+2.  **Hakkımızda Sayfası:** Bu projenin amacı ve vizyonum hakkında bilgiler.
+3.  **İletişim Sayfası:** Bana ulaşabileceğiniz adres ve iletişim bilgileri.
+
+### İlgi Alanlarım (Ödev 2'den)
+
+Boş zamanlarımda yapmayı sevdiğim şeylerden bazıları:
+
+* **Film:** Dövüş Kulübü
+* **Dizi:** Breaking Bad
+* **Kitap:** 1984 - George Orwell
+
+---
+**[Ana Sayfa](index.html) | [Hakkımızda](hakkimizda.html) | [İletişim](iletisim.html)**
+
+*© 2025 Tüm Hakları Saklıdır. Bu bir Patika.dev ödevidir.*
