@@ -113,3 +113,157 @@ Boş zamanlarımda yapmayı sevdiğim şeylerden bazıları:
 * **[İletişim](iletisim.html)**
 
 *© 2025 Tüm Hakları Saklıdır. Bu bir Patika.dev ödevidir.*
+
+---
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frambuazlı Cheesecake Tarifi</title>
+    
+    <style>
+        body {
+            background-color: #fdfaf6; /* Açık, sıcak bir bej arka plan */
+            font-family: Arial, Helvetica, sans-serif; /* Okunaklı bir yazı tipi */
+            line-height: 1.6; /* Satır aralığını artırarak okumayı kolaylaştırır */
+            margin: 0;
+            padding: 0;
+        }
+
+        /* İçeriği ortalayan ve beyaz bir kart içine alan ana kutu */
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 20px auto; /* Üstten/alttan boşluk, sağdan/soldan otomatik ortala */
+            padding: 25px 40px;
+            background-color: #ffffff; /* İçerik alanı beyaz kalsın */
+            border-radius: 10px; /* Kenarları yumuşatır */
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* Hafif bir gölge */
+        }
+
+        h1 {
+            color: #D9376E; /* Ana başlık için canlı bir frambuaz rengi */
+            text-align: center; /* Başlığı ortala */
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #f0f0f0; /* Başlıkların altını hafifçe ayırır */
+            padding-bottom: 5px;
+        }
+        
+        h3 {
+            color: #555;
+        }
+
+        ul, ol {
+            padding-left: 20px; /* Listelerin girintisini ayarlar */
+        }
+
+        li {
+            margin-bottom: 8px; /* Liste elemanları arasına boşluk koyar */
+        }
+        
+        /* Videoyu sayfaya gömmek için (isteğe bağlı) */
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+    </style>
+    </head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>Frambuazlı Cheesecake Tarifi</h1>
+            <p>Nefis Yemek Tarifleri'nin popüler tarifi ile ev yapımı frambuazlı cheesecake. Hem göze hem damağa hitap eden muhteşem bir lezzet!</p>
+        </header>
+
+        <hr>
+
+        <main>
+            
+            <section class="video-wrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/S2pP-nLd-f0" 
+                        title="YouTube video player" frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                </iframe>
+            </section>
+
+            <article>
+                <section>
+                    <h2>Malzemeler</h2>
+
+                    <h3>Tabanı İçin:</h3>
+                    <ul>
+                        <li>2 paket yulaflı bisküvi</li>
+                        <li>100 gr tereyağı (eritilmiş)</li>
+                    </ul>
+
+                    <h3>Kreması İçin:</h3>
+                    <ul>
+                        <li>600 gr labne peyniri (suyu süzülmüş)</li>
+                        <li>1 su bardağı toz şeker</li>
+                        <li>1 paket vanilya</li>
+                        <li>3 adet yumurta</li>
+                        <li>1 adet limon kabuğu rendesi</li>
+                        <li>200 ml krema (1 paket)</li>
+                    </ul>
+                    
+                    <h3>Frambuaz Sosu İçin:</h3>
+                    <ul>
+                        <li>250 gr frambuaz (dondurulmuş veya taze)</li>
+                        <li>4 yemek kaşığı toz şeker</li>
+                        <li>1 yemek kaşığı mısır nişastası</li>
+                        <li>Yarım su bardağı su</li>
+                    </ul>
+                </section>
+                
+                <hr>
+
+                <section>
+                    <h2>Nasıl Yapılır?</h2>
+
+                    <ol>
+                        <li><strong>Taban Hazırlığı:</strong> Bisküvileri rondodan un gibi olana kadar çekin. Eritilmiş tereyağı ile karıştırın.</li>
+                        <li>Kelepçeli kalıbın (26 cm) tabanına yağlı kağıt serin. Bisküvili karışımı tabana eşitçe yayın ve bir bardak yardımıyla bastırarak sıkıştırın.</li>
+                        <li>Tabanı, krema hazırlanana kadar buzdolabında dinlendirin.</li>
+                        <li><strong>Krema Hazırlığı:</strong> Labne, toz şeker, vanilya ve limon kabuğu rendesini bir çırpma kabına alın. Mikserle pürüzsüz olana kadar çırpın.</li>
+                        <li>Yumurtaları teker teker, her birini ekledikten sonra düşük devirde sadece karışana kadar (yaklaşık 15 saniye) çırparak harca yedirin.</li>
+                        <li>Son olarak kremayı (sıvı olan) ekleyin ve bir spatula ile yavaşça, alttan üste doğru karıştırın. (Fazla çırpmayın, çatlamasın).</li>
+                        <li>Hazırladığınız kremayı bisküvili tabanın üzerine dökün.</li>
+                        <li><strong>Pişirme:</strong> Kalıbın kenarlarını dıştan alüminyum folyo ile kaplayın (Su almaması için).</li>
+                        <li>Cheesecake kalıbını fırın tepsisine oturtun. Fırın tepsisinin içine, kalıbın yarısına gelecek kadar sıcak su doldurun (Benmari usulü).</li>
+                        <li>Önceden ısıtılmış **160°C** fırında, alt-üst ayarda yaklaşık **60 dakika** (üzeri hafif sallanırken kenarları sabitlenmiş olmalı) pişirin.</li>
+                        <li>Fırını kapatın. Fırının kapağını hafifçe aralayıp cheesecake'i 1 saat fırının içinde dinlendirin.</li>
+                        <li><strong>Sos Hazırlığı:</strong> Sos için frambuaz, şeker, su ve nişastayı küçük bir tencereye alın.</li>
+                        <li>Orta ateşte, sürekli karıştırarak koyulaşıp kaynayana kadar pişirin. Ocaktan alıp tamamen soğumaya bırakın.</li>
+                        <li><strong>Birleştirme:</strong> Fırından çıkan ve oda sıcaklığına gelen cheesecake'in üzerine, tamamen soğumuş olan frambuaz sosunu dökün.</li>
+                        <li>Cheesecake'i buzdolabında **en az 4-5 saat**, tercihen 1 gece dinlendirdikten sonra servis yapın.</li>
+                    </ol>
+                </section>
+            </article>
+        </main>
+
+        <footer>
+            <h2 style="text-align: center; color: #D9376E;">Afiyet Olsun!</h2>
+        </footer>
+
+    </div> </body>
+</html>
