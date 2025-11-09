@@ -71,3 +71,45 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, repellendus?
 * **[İletişim](iletisim.html)**
 
 *© 2025 Tüm Hakları Saklıdır. Bu bir Patika.dev ödevidir.*
+
+
+---
+# Kodlama Günlüğüm
+
+* **[Ana Sayfa](index.html)**
+* **[Hakkımızda](hakkimizda.html)**
+* **[İletişim](iletisim.html)**
+
+---
+
+## Ana Sayfa
+
+HTML öğrenme yolculuğuma hoş geldiniz! Bu site, Patika.dev HTML kursundaki bölüm sonu çalışmamdır.
+
+Bu sayfada kişisel projelerimi ve öğrendiklerimi paylaşıyorum.
+
+![Rastgele bir çalışma masası görseli](https://picsum.photos/id/1/600/300)
+
+### Bu Sitede Neler Var?
+
+Bu site 3 sayfadan oluşmaktadır:
+
+1.  **Ana Sayfa:** Şu an bulunduğunuz sayfa. Genel bir karşılama içerir.
+2.  **Hakkımızda Sayfası:** Bu projenin amacı ve vizyonum hakkında bilgiler.
+3.  **İletişim Sayfası:** Bana ulaşabileceğiniz adres ve iletişim bilgileri.
+
+### İlgi Alanlarım (Ödev 2'den)
+
+Boş zamanlarımda yapmayı sevdiğim şeylerden bazıları:
+
+* **Film:** [Dövüş Kulübü](https://www.imdb.com/title/tt0137523/)
+* **Dizi:** Breaking Bad
+* **Kitap:** [1984 - George Orwell](https://www.goodreads.com/book/show/40961427-1984)
+
+---
+
+* **[Ana Sayfa](index.html)**
+* **[Hakkımızda](hakkimizda.html)**
+* **[İletişim](iletisim.html)**
+
+*© 2025 Tüm Hakları Saklıdır. Bu bir Patika.dev ödevidir.*
