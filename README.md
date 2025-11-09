@@ -115,4 +115,62 @@ Boş zamanlarımda yapmayı sevdiğim şeylerden bazıları:
 *© 2025 Tüm Hakları Saklıdır. Bu bir Patika.dev ödevidir.*
 
 ---
+# Frambuazlı Cheesecake Tarifi
+
+Tarifin renkli ve stilli (CSS'li) tam versiyonu için buraya tıklayın: 
+**➡️ [frambuazli-cheesecake.html](frambuazli-cheesecake.html)**
+
+---
+
+## Tarifin Videosu (Nefis Yemek Tarifleri)
+
+*(Videoyu izlemek için resme tıklayın)*
+
+<a href="https://www.youtube.com/watch?v=S2pP-nLd-f0" target="_blank">
+  <img src="https://img.youtube.com/vi/S2pP-nLd-f0/0.jpg" alt="Frambuazlı Cheesecake Tarifi Videosu" width="600">
+</a>
+
+## Malzemeler
+
+### Tabanı İçin:
+* 2 paket yulaflı bisküvi
+* 100 gr tereyağı (eritilmiş)
+
+### Kreması İçin:
+* 600 gr labne peyniri (suyu süzülmüş)
+* 1 su bardağı toz şeker
+* 1 paket vanilya
+* 3 adet yumurta
+* 1 adet limon kabuğu rendesi
+* 200 ml krema (1 paket)
+    
+### Frambuaz Sosu İçin:
+* 250 gr frambuaz (dondurulmuş veya taze)
+* 4 yemek kaşığı toz şeker
+* 1 yemek kaşığı mısır nişastası
+* Yarım su bardağı su
+
+---
+
+## Nasıl Yapılır?
+
+1.  **Taban Hazırlığı:** Bisküvileri rondodan un gibi olana kadar çekin. Eritilmiş tereyağı ile karıştırın.
+2.  Kelepçeli kalıbın (26 cm) tabanına yağlı kağıt serin. Bisküvili karışımı tabana eşitçe yayın ve bir bardak yardımıyla bastırarak sıkıştırın.
+3.  Tabanı, krema hazırlanana kadar buzdolabında dinlendirin.
+4.  **Krema Hazırlığı:** Labne, toz şeker, vanilya ve limon kabuğu rendesini bir çırpma kabına alın. Mikserle pürüzsüz olana kadar çırpın.
+5.  Yumurtaları teker teker, her birini ekledikten sonra düşük devirde sadece karışana kadar (yaklaşık 15 saniye) çırparak harca yedirin.
+6.  Son olarak kremayı (sıvı olan) ekleyin ve bir spatula ile yavaşça, alttan üste doğru karıştırın. (Fazla çırpmayın, çatlamasın).
+7.  Hazırladığınız kremayı bisküvili tabanın üzerine dökün.
+8.  **Pişirme:** Kalıbın kenarlarını dıştan alüminyum folyo ile kaplayın (Su almaması için).
+9.  Cheesecake kalıbını fırın tepsisine oturtun. Fırın tepsisinin içine, kalıbın yarısına gelecek kadar sıcak su doldurun (Benmari usulü).
+10. Önceden ısıtılmış **160°C** fırında, alt-üst ayarda yaklaşık **60 dakika** pişirin.
+11. Fırını kapatın. Fırının kapağını hafifçe aralayıp cheesecake'i 1 saat fırının içinde dinlendirin.
+12. **Sos Hazırlığı:** Sos için frambuaz, şeker, su ve nişastayı küçük bir tencereye alın.
+13. Orta ateşte, sürekli karıştırarak koyulaşıp kaynayana kadar pişirin. Ocaktan alıp tamamen soğumaya bırakın.
+14. **Birleştirme:** Fırından çıkan ve oda sıcaklığına gelen cheesecake'in üzerine, tamamen soğumuş olan frambuaz sosunu dökün.
+15. Cheesecake'i buzdolabında **en az 4-5 saat**, tercihen 1 gece dinlendirdikten sonra servis yapın.
+
+---
+
+### Afiyet Olsun!
 
