@@ -40,7 +40,8 @@ Bu, sevdiğim bir köpek resmi.
 
 ## Ana Sayfa
 
-![Ana Sayfa Resmi](image_ee699b.png)
+![Ana Sayfa Resmi](<img width="700" height="605" alt="image" src="https://github.com/user-attachments/assets/5b9b271b-5864-4d31-8ad5-3cc25dbaf200" />
+)
 
 HTML öğrenme yolculuğuma hoş geldiniz! Bu site, Patika.dev HTML kursundaki bölüm sonu çalışmamdır.
 
