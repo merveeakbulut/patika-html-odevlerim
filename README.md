@@ -4,7 +4,7 @@ Bu depo, Patika.dev HTML kursu Bölüm Sonu Çalışması 2 için oluşturulmuş
 
 ---
 
-## Ödev 2 İçeriğinden Bir Kesit (HTML'den Alınmıştır)
+## Ödev 2 İçeriğinden Bir Kesit 
 
 HTML sayfamda yer alan içeriklerin `README.md` dosyasındaki bir önizlemesidir.
 
